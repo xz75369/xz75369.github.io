@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 薛政的个人博客</title>
+    <link>http://xz75369.github.io/posts/</link>
+    <description>Recent content in Posts on 薛政的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 May 2018 16:00:22 +0800</lastBuildDate>
+    
+	<atom:link href="http://xz75369.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>姜鹏是沙雕</title>
+      <link>http://xz75369.github.io/posts/second/</link>
+      <pubDate>Mon, 14 May 2018 16:00:22 +0800</pubDate>
+      
+      <guid>http://xz75369.github.io/posts/second/</guid>
+      <description>姜鹏无疑是一个沙雕</description>
+    </item>
+    
+    <item>
+      <title>Xz75369</title>
+      <link>http://xz75369.github.io/posts/xz75369/</link>
+      <pubDate>Wed, 09 May 2018 10:06:17 +0800</pubDate>
+      
+      <guid>http://xz75369.github.io/posts/xz75369/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第一篇博客</title>
+      <link>http://xz75369.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 08 May 2018 16:31:16 +0800</pubDate>
+      
+      <guid>http://xz75369.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
